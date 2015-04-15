@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jump</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="button_play">Spielen</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level elements="100">
+	<cloud x="4" y="8" type="one" att="none"/>
+	<cloud x="4" y="16" type="normal" att="none"/>
+	<cloud x="22" y="26" type="normal" att="none"/>
+	<cloud x="10" y="34" type="normal" att="none"/>
+	<cloud x="12" y="52" type="normal" att="none"/>
+	<cloud x="24" y="62" type="normal" att="none"/>
+	<cloud x="4" y="66" type="normal" att="none"/>
+	<cloud x="22" y="78" type="normal" att="none"/>
+	<cloud x="18" y="84" type="normal" att="none"/>
+	<cloud x="2" y="92" type="normal" att="none"/>
+	<cloud x="20" y="98" type="normal" att="none"/>
+</level>
